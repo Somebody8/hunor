@@ -29,4 +29,4 @@ if __name__ == "__main__":
     run()
     
 st.write("My first website!")
-st.input("Your name is:", input())
+st.input("Your name is:",)
