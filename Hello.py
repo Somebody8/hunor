@@ -2,4 +2,4 @@
 
 import streamlit as st
 
-st.write("Első weboldalam")
+st.title("Első weboldalam!")
