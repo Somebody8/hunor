@@ -10,7 +10,7 @@ st.markdown("[Nagyon jó dal](https://youtu.be/e_04ZrNroTo?si=HWN2Lo5OdquWAAxL)"
 st.markdown(">Valami")
 st.markdown("---")
 st.caption("Valaki vagyok")
-st.latex(r\sum_{
+st.latex(\sum_{
 \begin{subarray}{l}
    i\in\Lambda\\
    0<j<n
