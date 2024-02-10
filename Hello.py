@@ -7,7 +7,6 @@ st.subheader("Az adatokat az üres mezőkbe írdd!")
 st.header("Itt is egy szöveg jelenik meg")
 st.text("Meg itt is")
 st.markdown("[Nagyon jó dal](https://youtu.be/e_04ZrNroTo?si=HWN2Lo5OdquWAAxL)")
-st.markdown("*Lista:* "
-           " 1. tojás"
-           " 2. alma"
-          "  3. cukor")
+st.markdown(">Valami")
+st.markdown("---")
+st.caption("Valaki vagyok")
