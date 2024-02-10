@@ -14,4 +14,4 @@ st.latex("\sum_{
 \begin{subarray}{l}
    i\in\Lambda\\
    0<j<n
-\end{subarray}")
+\end{subarray}}")
